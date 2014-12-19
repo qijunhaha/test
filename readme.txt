@@ -8,3 +8,4 @@ get up
 this need a long time to done
 i am happy
 this is version 1.0.0
+进行了bug修复
