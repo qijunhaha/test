@@ -8,3 +8,4 @@ get up
 this need a long time to done
 i am happy
 this is version 1.0.0
+开发新功能
